@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'LI';
+    src: url(../fonts/Lato-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+/* толстый */
+@font-face {
+    font-family: 'PTSB';          
+    src: url(../fonts/PTSans-Bold.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+/* искасок */
+@font-face {
+    font-family: 'PTSI';
+    src: url(../fonts/PTSans-Italic.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+/* тонкий */
+@font-face {
+    font-family: 'PTSR';
+    src: url(../fonts/PTSans-Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
